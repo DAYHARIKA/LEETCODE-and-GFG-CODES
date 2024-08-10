@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
