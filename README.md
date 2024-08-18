@@ -59,4 +59,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
