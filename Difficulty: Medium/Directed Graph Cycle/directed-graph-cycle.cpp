@@ -6,34 +6,40 @@ using namespace std;
 class Solution {
   public:
     // Function to detect cycle in a directed graph.
-    bool solve(int node,int V, vector<int> adj[],int visit[],int func[]){
-        
-         visit[node]=1;
-         func[node]=1;
-         for(auto it:adj[node]){
-             if(visit[it] == 0){
-                 bool cyc=solve(it,V,adj,visit,func);
-                 if(cyc)
-                 return true;
-             }else if(func[it] == 1){
-                 return true;
-             }
-         }
-         func[node]=0;
-         return false;
-    }
     bool isCyclic(int V, vector<int> adj[]) {
         // code here
-        int visit[V]={0};
-        int func[V]={0};
-        for(int i=0;i<V;i++){
-            if(visit[i]==0){
-                bool cyc=solve(i,V,adj,visit,func);
-                if(cyc)
-                return true;
-            }
-        }
-        return false;
+        //create a indegree array
+	    int indegree[V]={0};
+	    for(int i=0;i<V;i++){
+	        for(auto it:adj[i]){
+	            indegree[it]++;
+	        }
+	    }
+	    //insert nodes which have zero indegree into queue
+	    queue<int> q;
+	    for(int i=0;i<V;i++){
+	        if(indegree[i] == 0){
+	            q.push(i);
+	        }
+	    }
+	    //bfs traversal
+	    int ans=0;
+	    while(!q.empty()){
+	        int temp=q.front();
+	        ans++;
+	        q.pop();
+	        for(auto it:adj[temp]){
+	            indegree[it]--;
+	            if(indegree[it] == 0){
+	                q.push(it);
+	            }
+	        }
+	    }
+	    if(ans==V){
+	        return false;
+	    }else{
+	        return true;
+	    }
     }
 };
 
