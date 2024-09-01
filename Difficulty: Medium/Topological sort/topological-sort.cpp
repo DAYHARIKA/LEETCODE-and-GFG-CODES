@@ -6,31 +6,36 @@ using namespace std;
 class Solution
 {
 	public:
-	//Function to return list containing vertices in Topological order.
-	void topo(int node,int V,vector<int> adj[],int visited[],stack<int> &s){
-	    
-	    visited[node]=1;
-	    for(auto it:adj[node]){
-	        if(visited[it] == 0)
-	        topo(it,V,adj,visited,s);
-	    }
-	    s.push(node);
-	}
+	//Function to return list containing vertices in Topological order. 
 	vector<int> topoSort(int V, vector<int> adj[]) 
 	{
 	    // code here
-	    stack<int> s;
-	    vector<int> ans;
-	    int visited[V]={0};
+	    //create a indegree array
+	    int indegree[V]={0};
 	    for(int i=0;i<V;i++){
-	        if(visited[i] == 0){
-	           topo(i,V,adj,visited,s);
+	        for(auto it:adj[i]){
+	            indegree[it]++;
 	        }
 	    }
-	    
-	    while(!s.empty()){
-	        ans.push_back(s.top());
-	        s.pop();
+	    //insert nodes which have zero indegree into queue
+	    queue<int> q;
+	    for(int i=0;i<V;i++){
+	        if(indegree[i] == 0){
+	            q.push(i);
+	        }
+	    }
+	    //bfs traversal
+	    vector<int> ans;
+	    while(!q.empty()){
+	        int temp=q.front();
+	        ans.push_back(temp);
+	        q.pop();
+	        for(auto it:adj[temp]){
+	            indegree[it]--;
+	            if(indegree[it] == 0){
+	                q.push(it);
+	            }
+	        }
 	    }
 	    return ans;
 	}
