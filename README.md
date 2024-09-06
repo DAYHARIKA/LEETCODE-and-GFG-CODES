@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
@@ -83,5 +84,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
