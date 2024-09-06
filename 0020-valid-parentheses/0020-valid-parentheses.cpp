@@ -1,5 +1,14 @@
 class Solution {
 public:
+    bool check(char s,char ch){
+        
+        if((ch == '(' && s != ')') || (ch == '[' && s != ']') ||(ch == '{' && s != '}')){
+            return true;
+        }else{
+            return false;
+        }
+
+    }
     bool isValid(string s) {
          
          stack<char> st;
@@ -10,8 +19,7 @@ public:
             }else if(st.empty()){
                 return false;
             }else{
-                char ch=st.top();
-                if((ch == '(' && s[i] != ')') || (ch == '[' && s[i] != ']') ||(ch == '{' && s[i] != '}')){
+                if(check(s[i],st.top())){
                     return false;
                 }else{
                     st.pop();
@@ -19,9 +27,6 @@ public:
             }
          }
 
-         if(st.empty())
-         return true;
-
-         return false;
+         return st.empty();
     }
 };
