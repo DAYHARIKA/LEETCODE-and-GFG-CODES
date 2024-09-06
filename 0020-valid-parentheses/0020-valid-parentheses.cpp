@@ -19,12 +19,13 @@ public:
             }else if(st.empty()){
                 return false;
             }else{
-                if(check(s[i],st.top())){
-                    return false;
-                }else{
-                    st.pop();
-                }
+               if(check(s[i],st.top())){
+                return false;
+               }else{
+                st.pop();
+               }
             }
+            
          }
 
          return st.empty();
