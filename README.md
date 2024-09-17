@@ -92,4 +92,16 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
