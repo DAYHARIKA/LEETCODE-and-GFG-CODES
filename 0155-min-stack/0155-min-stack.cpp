@@ -1,41 +1,43 @@
 class MinStack {
 public:
-    long long arr[10000];
-    int topp;
+   stack<long long> st;
     long long mini;
+    
     MinStack() {
-        mini = LLONG_MAX;
-        topp = -1;
+        mini = LLONG_MAX; // Initialize with the maximum value of long long
     }
     
     void push(int val) {
-        if (topp == -1) {
+        if(st.empty()) {
             mini = val;
-            arr[++topp] = val;
-        } else if (val < mini) {
-            arr[++topp] = 2LL * val - mini;
-            mini = val;
+            st.push(val);
         } else {
-            arr[++topp] = val;
+            if(val >= mini) {
+                st.push(val);
+            } else {
+                //2 CONVERTS AS LONG LONG TYPR HERE
+                st.push(2LL * val - mini); // Use 2LL to ensure the calculation is done in long long
+                mini = val;
+            }
         }
     }
     
     void pop() {
-        if (topp == -1) return;
-        long long curr = arr[topp--];
-        if (curr < mini) {
-            mini = 2 * mini - curr;
+        if(st.empty()) return;
+        long long x = st.top();
+        st.pop();
+        if(x < mini) {
+            mini = 2LL * mini - x; // Ensure the calculation is done in long long
         }
     }
     
     int top() {
-        if (topp == -1) return -1;
-        long long curr = arr[topp];
-        return (curr < mini) ? mini : curr;
+        if(st.top() >= mini) return st.top();
+        return mini;
     }
     
     int getMin() {
-        return (topp == -1) ? -1 : mini;
+        return mini;
     }
 };
 
