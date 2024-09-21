@@ -51,6 +51,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
