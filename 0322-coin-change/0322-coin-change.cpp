@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int mincoins(vector<int>& coins, int amount,vector<int>& dp){
+    int mincoins(vector<int>& coins, int amount,vector<int>& dp) {
         
         dp[0]=0;
         for(int i=1;i<=amount;i++){
