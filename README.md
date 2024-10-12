@@ -59,6 +59,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
