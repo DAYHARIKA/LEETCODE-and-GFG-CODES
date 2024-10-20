@@ -1,28 +1,20 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target,vector<int>& dp){
+    int solve(vector<int>& nums, int target,vector<unsigned long long>& dp){
 
-        if(target == 0){
-            return 1;
+        dp[0]=1;
+        for(int i=1;i<=target;i++){
+          for(int j=0;j<nums.size();j++){
+              if(i-nums[j] >= 0)
+              dp[i] += dp[i-nums[j]];
+          }
         }
-        if(target < 0){
-            return 0;
-        }
-        if(dp[target] != -1){
-            return dp[target];
-        }
-        int count=0;
-        for(int i=0;i<nums.size();i++){
-           count += solve(nums,target-nums[i],dp);
-        }
-        return dp[target]=count;
+        return dp[target];
     }
     int combinationSum4(vector<int>& nums, int target) {
         
-        int count=0;
-        vector<int> dp(target+1,-1);
-        int count1=solve(nums,target,dp);
-        return count1;
+        vector<unsigned long long> dp(target+1,0);
+        return solve(nums,target,dp);
         
     }
 };
