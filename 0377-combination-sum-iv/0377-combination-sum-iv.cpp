@@ -1,7 +1,9 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target,vector<unsigned long long>& dp){
-
+    
+    int combinationSum4(vector<int>& nums, int target) {
+        
+        vector<unsigned long long> dp(target+1,0);
         dp[0]=1;
         for(int i=1;i<=target;i++){
           for(int j=0;j<nums.size();j++){
@@ -10,11 +12,5 @@ public:
           }
         }
         return dp[target];
-    }
-    int combinationSum4(vector<int>& nums, int target) {
-        
-        vector<unsigned long long> dp(target+1,0);
-        return solve(nums,target,dp);
-        
     }
 };
