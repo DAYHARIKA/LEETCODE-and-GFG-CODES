@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
@@ -130,6 +131,7 @@
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 ## Memoization
 |  |
 | ------- |
