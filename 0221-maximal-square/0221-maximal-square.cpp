@@ -6,22 +6,23 @@ public:
         int maxi=0;
         int n=matrix.size();
         int m=matrix[0].size();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        vector<int> next(m+1,0);
+        vector<int> curr(m+1,0);
+        for(int i=n-1;i>=0;i--){
+         for(int j=m-1;j>=0;j--){
 
-       for(int i=n-1;i>=0;i--){
-        for(int j=m-1;j>=0;j--){
-
-          int adj=dp[i][j+1];
-          int dia=dp[i+1][j+1];
-          int bot=dp[i+1][j];
+          int adj=curr[j+1];
+          int dia=next[j+1];
+          int bot=next[j];
 
            if(matrix[i][j] == '1'){
-            dp[i][j]=1+min(adj,min(dia,bot));
-            maxi=max(maxi,dp[i][j]);
+            curr[j]=1+min(adj,min(dia,bot));
+            maxi=max(maxi,curr[j]);
            }else{
-             dp[i][j]=0;
+             curr[j]=0;
            }
         }
+        next=curr;                                                      
        }
         return maxi*maxi;
     }
