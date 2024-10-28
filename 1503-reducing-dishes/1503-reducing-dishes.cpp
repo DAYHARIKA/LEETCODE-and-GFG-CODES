@@ -13,16 +13,18 @@ public:
     int maxSatisfaction(vector<int>& satisfaction) {
         int n=satisfaction.size();
         sort(satisfaction.begin(),satisfaction.end());
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<int> curr(n+1,0);
+        vector<int> next(n+1,0);
         for(int i=n-1;i>=0;i--){
             for(int j=0;j<n;j++){
 
-                int include=((j+1)*(satisfaction[i]))+dp[i+1][j+1];
-                int exclude=dp[i+1][j];
-                dp[i][j]=max(include,exclude); 
+                int include=((j+1)*(satisfaction[i]))+next[j+1];
+                int exclude=next[j];
+                curr[j]=max(include,exclude); 
 
             }
+            next=curr;
         }
-        return dp[0][0];
+        return next[0];
     }
 };
