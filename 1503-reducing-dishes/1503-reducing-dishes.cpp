@@ -13,16 +13,12 @@ public:
     int maxSatisfaction(vector<int>& satisfaction) {
         int n=satisfaction.size();
         sort(satisfaction.begin(),satisfaction.end());
-        vector<int> next(n+1,0);
+        int sum=0,res=0;
         for(int i=n-1;i>=0;i--){
-            for(int j=0;j<n;j++){
-
-                int include=((j+1)*(satisfaction[i]))+next[j+1];
-                int exclude=next[j];
-                next[j]=max(include,exclude); 
-
-            }
+            sum += satisfaction[i];
+            if(sum < 0)break;
+            res += sum;
         }
-        return next[0];
+        return res;
     }
 };
