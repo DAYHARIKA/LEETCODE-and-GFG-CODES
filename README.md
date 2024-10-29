@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
@@ -136,6 +137,7 @@
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
