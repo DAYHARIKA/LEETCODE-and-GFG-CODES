@@ -17,7 +17,7 @@ public:
         vector<int> cur(n+1,0);
         vector<int> next(n+1,0);
         for(int curr=n-1;curr>=0;curr--){
-            for(int prev=curr-1;prev>=-1;prev--){
+            for(int prev=-1;prev<n;prev++){
 
                 int include=0;
                 if(prev==-1 || nums[curr] > nums[prev])
