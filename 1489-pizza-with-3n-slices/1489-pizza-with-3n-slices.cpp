@@ -1,23 +1,30 @@
 class Solution {
 public:
-    int solve(int index,int endindex,vector<int>& slices,int n,vector<vector<int>>& dp){
-
-        if(n==0 || index > endindex)return 0;
-         
-        if(dp[index][n] != -1)return dp[index][n];
-        int include=slices[index]+solve(index+2,endindex,slices,n-1,dp);
-        int exclude=0+solve(index+1,endindex,slices,n,dp);
-
-        return dp[index][n]=max(include,exclude);
-    }
+      
     int maxSizeSlices(vector<int>& slices) {
         
         int n=slices.size();
-        vector<vector<int>> dp1(n,vector<int>(n,-1));
-        int case1=solve(0,n-2,slices,n/3,dp1);
-        vector<vector<int>> dp2(n,vector<int>(n,-1));
-        int case2=solve(1,n-1,slices,n/3,dp2);
+        vector<vector<int>> dp1(n+2,vector<int>(n,0));
+        vector<vector<int>> dp2(n+2,vector<int>(n,0));
 
+        for(int i=n-2;i>=0;i--){
+            for(int j=1;j<=n/3;j++){
+                int include=slices[i]+dp1[i+2][j-1];
+                int exclude=0+dp1[i+1][j];
+
+                dp1[i][j]=max(include,exclude);
+            }
+        }
+        int case1=dp1[0][n/3];
+        for(int i=n-1;i>=1;i--){
+            for(int j=1;j<=n/3;j++){
+                int include=slices[i]+dp2[i+2][j-1];
+                int exclude=0+dp2[i+1][j];
+
+                dp2[i][j]=max(include,exclude);
+            }
+        }
+        int case2=dp2[1][n/3];
         return max(case1,case2);
     }
 };
