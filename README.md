@@ -23,6 +23,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
@@ -36,6 +37,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -155,6 +157,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
