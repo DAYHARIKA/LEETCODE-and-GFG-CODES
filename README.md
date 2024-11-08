@@ -45,6 +45,7 @@
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
@@ -204,4 +206,16 @@
 |  |
 | ------- |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
