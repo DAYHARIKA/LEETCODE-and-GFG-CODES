@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
