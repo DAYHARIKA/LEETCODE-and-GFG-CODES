@@ -53,6 +53,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -157,6 +158,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
