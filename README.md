@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
@@ -154,6 +155,7 @@
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
