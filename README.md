@@ -22,6 +22,7 @@
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1025-minimum-cost-for-tickets) |
@@ -172,6 +173,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1025-minimum-cost-for-tickets) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
