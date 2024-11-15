@@ -86,6 +86,7 @@
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [1250-longest-common-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1250-longest-common-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1367-maximum-height-by-stacking-cuboids) |
