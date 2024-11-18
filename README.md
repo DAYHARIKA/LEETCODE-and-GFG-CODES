@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0171-excel-sheet-column-number) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
