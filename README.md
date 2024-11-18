@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -161,6 +163,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
@@ -217,6 +220,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1228-minimum-cost-tree-from-leaf-values) |
