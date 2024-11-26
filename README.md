@@ -38,6 +38,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
+| [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1952-minimum-sideway-jumps) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
+| [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
 ## Memoization
 |  |
 | ------- |
