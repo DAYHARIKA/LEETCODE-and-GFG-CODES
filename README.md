@@ -49,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
@@ -90,6 +91,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -104,6 +106,7 @@
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1250-longest-common-subsequence) |
 ## Design
@@ -237,6 +240,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
