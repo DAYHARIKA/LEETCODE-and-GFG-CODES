@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
@@ -88,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
