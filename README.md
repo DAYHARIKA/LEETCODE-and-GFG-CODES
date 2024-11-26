@@ -60,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
@@ -94,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
@@ -119,6 +121,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 ## Linked List
 |  |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
