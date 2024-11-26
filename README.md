@@ -61,6 +61,7 @@
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
@@ -252,6 +253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
