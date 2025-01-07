@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -274,6 +275,7 @@
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0414-third-maximum-number) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
