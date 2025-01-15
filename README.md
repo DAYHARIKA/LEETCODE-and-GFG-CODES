@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@
 | [0168-excel-sheet-column-title](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
@@ -167,6 +169,7 @@
 | [0088-merge-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0908-middle-of-the-linked-list) |
