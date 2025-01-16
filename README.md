@@ -23,6 +23,7 @@
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
@@ -171,6 +172,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
