@@ -18,6 +18,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +111,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -286,6 +289,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
@@ -331,4 +335,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
