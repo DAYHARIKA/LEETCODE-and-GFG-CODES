@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0141-linked-list-cycle) |
@@ -282,6 +284,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
