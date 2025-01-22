@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
@@ -338,5 +340,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
