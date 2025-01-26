@@ -3,23 +3,25 @@ public:
     int longestConsecutive(vector<int>& nums) {
 
         int n=nums.size();
-        if(n==0) return 0;
-        int longest=1;
-        unordered_set<int> st;
+        if(n == 0)return 0;
+        int maxi=1;
+        unordered_set<int> mp;
         for(int i=0;i<n;i++){
-          st.insert(nums[i]);
+            mp.insert(nums[i]);
         }
-        for(auto it:st){
-          if(st.find(it-1)==st.end()){ //if no element is smaller than the current one , then we can start finding sequence from that number
-            int cnt=1;
-            int x=it;
-            while(st.find(x+1)!=st.end()){
-              x=x+1;
-              cnt=cnt+1;
+        for(auto it:mp){
+
+            if(mp.find(it-1) == mp.end()){
+                int cnt=1;
+                int x=it;
+                while(mp.find(x+1) != mp.end()){
+                    cnt++;
+                    x=x+1;
+                }
+                maxi=max(maxi,cnt);
             }
-            longest=max(longest,cnt);
-          }
+
         }
-        return longest;
+        return maxi;
     }
 };
