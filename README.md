@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0138-copy-list-with-random-pointer) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
