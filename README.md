@@ -40,6 +40,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -75,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -346,6 +348,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
