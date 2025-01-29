@@ -30,6 +30,7 @@
 | [0204-count-primes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
@@ -73,6 +74,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -307,6 +310,7 @@
 | [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
