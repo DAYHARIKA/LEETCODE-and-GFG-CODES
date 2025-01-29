@@ -12,44 +12,43 @@
 class Solution {
 public:
     bool isEvenOddTree(TreeNode* root) {
-         if(!root)return true;
-        queue<TreeNode*>q;
-        q.push(root);
-        int level=0;
-     while(!q.empty())
-     {
-        int s=q.size();
-        vector<int>t;
-        for(int i=0;i<s;++i)
-        {
-            TreeNode* x=q.front();
-            q.pop();
-            t.push_back(x->val);
-            if(x->left)q.push(x->left);
-            if(x->right)q.push(x->right);
+        if (!root) {
+            return true;
         }
-        if(level%2==0)
-        {
-            for(int val:t)
-            {
-                if(val%2==0)return false;
-            }
-            for(int i=1;i<t.size();++i)
-            {
-                if(t[i]<=t[i-1])return false;
-            }
-        }
-            else{
-                for(int val:t)
-                {
-                    if(val%2!=0)return false;
+
+        std::queue<TreeNode*> queue;
+        int level = 0;
+
+        queue.push(root);
+
+        while (!queue.empty()) {
+            int size = queue.size();
+            int prev_val = (level % 2 == 0) ? std::numeric_limits<int>::min() : std::numeric_limits<int>::max();
+
+            for (int i = 0; i < size; ++i) {
+                TreeNode* node = queue.front();
+                queue.pop();
+
+                // Check if the values follow the conditions
+                if ((level % 2 == 0 && (node->val % 2 == 0 || node->val <= prev_val)) ||
+                    (level % 2 == 1 && (node->val % 2 == 1 || node->val >= prev_val))) {
+                    return false;
                 }
-                for(int i=1;i<t.size();++i){
-                    if(t[i]>=t[i-1])return false;
+
+                prev_val = node->val;
+
+                // Add children to the queue
+                if (node->left) {
+                    queue.push(node->left);
+                }
+                if (node->right) {
+                    queue.push(node->right);
                 }
             }
-            ++level;
+
+            level++;
         }
+
         return true;
     }
 };
