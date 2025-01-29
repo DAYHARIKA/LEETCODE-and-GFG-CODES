@@ -280,6 +280,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0322-coin-change) |
+| [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
 ## Queue
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+| [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+| [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
 ## Game Theory
 |  |
 | ------- |
