@@ -216,6 +216,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+| [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
+| [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
 ## Game Theory
 |  |
