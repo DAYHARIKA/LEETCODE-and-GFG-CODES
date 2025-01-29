@@ -5,7 +5,7 @@ public:
         vector<int> ans;
         int n=nums.size();
 
-        int ele1=INT_MIN,ele2=INT_MIN,cnt1=0,cnt2=0;
+        int ele1=INT_MAX,ele2=INT_MAX,cnt1=0,cnt2=0;
 
         for(int i=0;i<n;i++){
 
