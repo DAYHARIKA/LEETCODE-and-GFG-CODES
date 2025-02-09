@@ -50,6 +50,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0792-binary-search) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
@@ -338,6 +339,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0792-binary-search) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
