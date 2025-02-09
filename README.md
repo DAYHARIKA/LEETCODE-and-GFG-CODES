@@ -44,6 +44,7 @@
 | [0414-third-maximum-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -334,6 +335,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0354-russian-doll-envelopes) |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
@@ -375,8 +377,25 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
