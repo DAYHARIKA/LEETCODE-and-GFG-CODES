@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0053-maximum-subarray) |
@@ -334,6 +335,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
