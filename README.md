@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0189-rotate-array) |
@@ -342,6 +343,7 @@
 | [0035-search-insert-position](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0349-intersection-of-two-arrays) |
