@@ -71,6 +71,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1952-minimum-sideway-jumps](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1952-minimum-sideway-jumps) |
@@ -359,6 +360,7 @@
 | [0792-binary-search](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0907-koko-eating-bananas) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
