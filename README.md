@@ -60,6 +60,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0792-binary-search) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0907-koko-eating-bananas](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
@@ -356,6 +357,7 @@
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0907-koko-eating-bananas) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
