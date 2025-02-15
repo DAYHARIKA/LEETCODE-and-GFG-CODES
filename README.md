@@ -74,6 +74,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1503-reducing-dishes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1952-minimum-sideway-jumps](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1952-minimum-sideway-jumps) |
@@ -365,6 +366,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1087-longest-arithmetic-subsequence) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
