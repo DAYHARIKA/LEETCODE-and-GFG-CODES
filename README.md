@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
@@ -355,6 +357,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
