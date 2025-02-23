@@ -14,6 +14,7 @@ public:
         //apply the merge step:
         int i = 0, j = 0;
         while (i < n1 && j < n2) {
+            if(ind1el != -1 && ind2el != -1)break;
             if (a[i] < b[j]) {
                 if (cnt == ind1) ind1el = a[i];
                 if (cnt == ind2) ind2el = a[i];
@@ -30,12 +31,14 @@ public:
 
         //copy the left-out elements:
         while (i < n1) {
+            if(ind1el != -1 && ind2el != -1)break;
             if (cnt == ind1) ind1el = a[i];
             if (cnt == ind2) ind2el = a[i];
             cnt++;
             i++;
         }
         while (j < n2) {
+            if(ind1el != -1 && ind2el != -1)break;
             if (cnt == ind1) ind1el = b[j];
             if (cnt == ind2) ind2el = b[j];
             cnt++;
