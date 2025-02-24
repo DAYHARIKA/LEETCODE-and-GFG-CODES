@@ -83,6 +83,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1952-minimum-sideway-jumps](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1952-minimum-sideway-jumps) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -306,6 +307,7 @@
 | [0221-maximal-square](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/2047-find-a-peak-element-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
