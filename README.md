@@ -230,6 +230,7 @@
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0232-implement-queue-using-stacks) |
@@ -246,6 +247,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
@@ -390,6 +392,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
@@ -400,6 +403,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0904-leaf-similar-trees](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0904-leaf-similar-trees) |
 | [1731-even-odd-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1731-even-odd-tree) |
