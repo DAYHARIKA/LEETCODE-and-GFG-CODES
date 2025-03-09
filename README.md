@@ -166,6 +166,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0516-longest-palindromic-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
@@ -238,6 +239,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1078-remove-outermost-parentheses) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DAYHARIKA/LEETCODE-and-GFG-CODES/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
